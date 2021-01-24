@@ -1,0 +1,18 @@
+header {background-color: #223A5E; color: white; border-bottom:solid grey 5px; text-align: center; font-size: 1.8em; font: bold; font-variant:small-caps;}
+header::first-letter {font-size:1.5em;}
+body {background-image:"C:\Users\Ale!!\Desktop\DAM\DESARROLLO DE INTERFACES\CSS\Material\img\fondo.jpg";}
+nav{float:left; width: 15%; background-color: #223A5E;padding: 20px;color:white; margin-top: 2em; margin-bottom: 2em;}
+a {text-decoration:none;color: #F6D155;}
+a:hover {CURSOR: hand;TEXT-DECORATION: underline;}
+article {margin-left: 20%; margin-right: 15%;text-align: justify;}
+h2 {border-bottom:solid brown; border-bottom-width: thin;color: brown;}
+img { border:3px solid grey; display:block; margin:auto;}
+figcaption {text-align: center;margin-top: 10px;font-style: italic;}
+h3 {font-style:italic; color:brown; }
+table {margin:auto; padding:10px; text-align: center;}
+#títulos {background-color:#223A5E;color:white;}
+#impar {background-color: #C48F65;color:black}
+#par {background-color: #D49F75;color:black}
+#bloque_de_imagenes {margin-top: 2em; padding: 10%; size:100%;}
+footer {background-color: #223A5E; border-top:solid grey 5px; text-align: center; color :white; padding-top:1em; padding-bottom:1em;}
+
